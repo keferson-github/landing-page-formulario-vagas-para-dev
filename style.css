@@ -19,11 +19,10 @@ body {
 
 .container1 {
   background-color: #000000bb;
-  width: 450px;
+  width: 400px;
   height: auto;
-  padding: 80px;
+  padding: 50px;
   border-radius: 20px;
-  margin: auto;
 }
 
 input.form-control {
