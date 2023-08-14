@@ -23,6 +23,7 @@ body {
   height: auto;
   padding: 80px;
   border-radius: 20px;
+  margin: auto;
 }
 
 input.form-control {
