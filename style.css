@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-size: 15px;
+}
+
+body {
+  background-image: url("../img/bg-banner-full-tech.4jpg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #ffffff;
+}
+
+.container1 {
+  background-color: #000000bb;
+  width: 650px;
+  height: auto;
+  padding: 80px;
+  border-radius: 20px;
+}
+
+input.form-control {
+  border-radius: 20px;
+}
+
+span#basic-addon1 {
+  border-radius: 20px 0px 0px 20px;
+}
+
+button.btn.btn-outline-info {
+  width: 150px;
+  border-radius: 20px;
+  border: 1px solid;
+  font-family: "Poppins";
+  font-weight: 500;
+}
+
+button.btn.btn-outline-info:hover {
+  color: #000;
+  font-family: "Poppins";
+  font-weight: 500;
+  border: 1px solid;
+  box-shadow: 1px -2px 12px -1px rgba(85, 220, 250, 0.474);
+}
+
+.img-fluid {
+  height: 60px;
+  width: 150px;
+  margin-bottom: 50px;
+}
+
+.paragraph {
+  margin: 20px 0px;
+}
+
+p {
+  margin-top: 0px;
+  margin-bottom: 1rem;
+  font-size: 15px;
+}
+
+.py-5 {
+  padding-top: 3rem!important;
+  padding-bottom: 0rem!important;
+}
