@@ -37,6 +37,10 @@ span#basic-addon2 {
   border-radius: 20px 0px 0px 20px;
 }
 
+span#basic-addon3 {
+  border-radius: 20px 0px 0px 20px;
+}
+
 button.btn.btn-outline-info {
   width: 150px;
   border-radius: 20px;
