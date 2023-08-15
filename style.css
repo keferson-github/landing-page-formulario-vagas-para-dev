@@ -50,9 +50,10 @@ button.btn.btn-outline-info:hover {
 }
 
 .img-fluid {
-  height: 60px;
-  width: 150px;
+  height: 40px;
+  width: 85px;
   margin-bottom: 20px;
+  margin-top: -25px;
 }
 
 .paragraph {
