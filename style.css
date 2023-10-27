@@ -78,3 +78,25 @@ p {
   padding-top: 3rem !important;
   padding-bottom: 0rem !important;
 }
+
+.custom-popover {
+  --bs-popover-max-width: 200px;
+  --bs-popover-body-padding-x: 1rem;
+  --bs-popover-body-padding-y: .5rem;
+}
+
+.custom-popover {
+  background-color: rgb(255, 255, 255);
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h3.popover-header {
+  background-color: white;
+  color: #000;
+}
+
+button.btn.btn-primary.mt-5.py-2.px-5 {
+  margin-left: 100px;
+}
